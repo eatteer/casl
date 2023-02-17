@@ -1,0 +1,17 @@
+{
+  "name": "casl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@casl/ability": "^6.3.3",
+    "interpolate-json": "^2.2.2",
+    "mustache": "^4.2.0"
+  }
+}
